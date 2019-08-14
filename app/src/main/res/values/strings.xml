@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Library</string>
+    <string name="title">Enter Name to Store in SQLITE</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="store">Store</string>
+    <string name="get_all_names_from_sqlite">GET ALL NAMES FROM SQLITE</string>
+    <string name="logo_kominfo">Logo Kominfo</string>
+    <string name="proyek_3">Proyek 3</string>
+</resources>
